@@ -1,0 +1,11 @@
+{
+  "name": "software-carpentry-template",
+  "version": "0.1.0",
+  "main": "index.md",
+  "homepage": "https://github.com/SoftwareCarpentryLessonManager/software-carpentry-template",
+  "description": "Template files required to build the lessons with a software carpentry branding.",
+  "keywords": [
+    "template"
+  ],
+  "license": "TODO"
+}
